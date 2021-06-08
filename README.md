@@ -2,7 +2,7 @@
 Arti Nama Generator
 <br>
 <br>
-<img src="../../artinama.png" alt="screenshot"/>
+<img src="../../artinama.PNG" alt="screenshot"/>
 <br>
 $ git clone https://guthub.com/riandafuadshafly/artinama <br>
 $ cd artinama <br>

@@ -10,6 +10,6 @@ def main(nama):
       url = "https://jar-api.xyz/api/primbon/artinama?q={}&apikey=aichan".format(arti)
       data = requests.get(url).json()
       makna = data['result']
-      print(" Arti Namamu  : " + makna)
+      print(" [-]  Arti Namamu  : " + makna)
       
 main(arti)

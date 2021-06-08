@@ -1,0 +1,2 @@
+# artinama
+Arti Nama Generator
